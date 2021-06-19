@@ -7,7 +7,7 @@ void main() => runApp(
           appBar: AppBar(
             centerTitle: true,
             title: Text('I can do it'),
-            backgroundColor: Colors.blueGrey[900],
+            backgroundColor: Colors.blueGrey[800],
           ),
           body: Center(
             child: Image.asset('images/jdi.png'),
